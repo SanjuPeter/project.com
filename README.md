@@ -1,6 +1,6 @@
-# Clone of Urban Company Clone
+# Agency workers
 
-Cloning of Urban Company website. We are a team of 3. We have tried to create a clone of a well known on demand service provider call Urban Company. For more details <a href="https://urban-company-clone.netlify.app/">Click here</a>
+We are a team of 3. We have tried to create a clone of a well known on demand service provider call Urban Company. For more details <a href="https://urban-company-clone.netlify.app/">Click here</a>
 
 # Home Page
 
